@@ -19,7 +19,7 @@ st.set_page_config(
 # --------------------------------------------------
 
 MODEL_PATH = "models/mumbai_house_price_knn.pkl"
-DATA_PATH = "Mumbai_House_Prices.csv"
+DATA_PATH = "Mumbai House Prices.csv"
 
 
 @st.cache_resource
